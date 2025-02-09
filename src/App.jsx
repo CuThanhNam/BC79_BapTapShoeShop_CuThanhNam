@@ -2,19 +2,19 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import DemoComponent from './DemoComponent/DemoComponent';
-import ExLayout from './ExLayout/ExLayout';
-import EventHandling from './EventHandling/EventHandling';
-import ConditionalRendering from './ConditionalRendering/ConditionalRendering';
-import DemoUseState from './DemoUseState/DemoUseState';
-import DataBinding from './DataBinding/DataBinding';
-import ExCar from './ExCar/ExCar';
-import DemoProp from './DemoProp/DemoProp';
+// import DemoComponent from './DemoComponent/DemoComponent';
+// import ExLayout from './ExLayout/ExLayout';
+// import EventHandling from './EventHandling/EventHandling';
+// import ConditionalRendering from './ConditionalRendering/ConditionalRendering';
+// import DemoUseState from './DemoUseState/DemoUseState';
+// import DataBinding from './DataBinding/DataBinding';
+// import ExCar from './ExCar/ExCar';
+// import DemoProp from './DemoProp/DemoProp';
 //import RenderWithMap from './RenderWithMap/RenderWithMap';
-import ExCarAdvance from './ExCarAdvance/ExCarAdvance';
+//import ExCarAdvance from './ExCarAdvance/ExCarAdvance';
 import ExShoe from './Exshoe/Exshoe';
-import LearnHook from './LearnHook/LearnHook';
-import ExRenderApi from './ExRenderApi/ExRenderApi';
+//import LearnHook from './LearnHook/LearnHook';
+//import ExRenderApi from './ExRenderApi/ExRenderApi';
 
 
 
